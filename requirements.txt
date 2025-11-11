@@ -1,0 +1,13 @@
+numpy==2.1.3
+pandas
+ipykernel
+matplotlib
+requests
+scikit-learn
+seaborn
+shiny
+Jinja2
+statsmodels==0.14.3
+plotly
+scipy==1.14.1
+nbformat
